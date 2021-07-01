@@ -1,7 +1,5 @@
 # Hadoop com Python
 
-## Teste do ambiente do Hadoop
-
 Exemplo baseado do livro [Hadoop with Python](https://www.oreilly.com/library/view/hadoop-with-python/9781492048435/)
 
 A lista de palavras foi criada utilizando a seguinte ferramenta [Mockaroo](https://www.mockaroo.com/), nessa lista
